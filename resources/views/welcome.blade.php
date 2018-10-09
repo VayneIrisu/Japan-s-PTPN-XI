@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Welcome to Japan's PTPN XI
                 </div>
 
                 <div class="links">
